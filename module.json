@@ -2,7 +2,7 @@
   "name": "module-maintenance-labor-and-time",
   "display_name": "Maintenance Labor and Time",
   "description": "Tenant-scoped engineer skills, attendance, time entries, rates, expenses, and approval.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "category": "capability",
   "provider": "Liberu\\Modules\\Maintenance\\LaborAndTime\\LaborAndTimeServiceProvider",
   "requires": {
